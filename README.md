@@ -7,8 +7,10 @@ I am JOSE THAMPI
 - 💬 Ask me about Anything ...
 - 😄 Pronouns: He/Him...
 
-  <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">
-  
+
+
+  ![giphy (1)](https://github.com/j0xz/j0xz/assets/74585150/b311fa15-5717-4a19-8a97-eb308707d107)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=j0xz)](https://github.com/j0xz/github-profile-trophy)  
 [![Top Languages used by Jose:](https://github-readme-stats.vercel.app/api/top-langs/?username=j0xz&layout=donut)](https://github.com/j0xz/github-readme-stats)
 
